@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Demolition Wrecking Co",
+    "phone": "+19183829797",
+    "category": "demolition contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tulsa's Trusted Demolition Experts",
+      "heroSubline": "Get the job done right, on time, and safely. Demolition Wrecking Co is Tulsa's premier choice for residential and commercial demolition.",
+      "aboutTitle": "Demolition Done Right, Tulsa Tough",
+      "aboutText": [
+        "Demolition Wrecking Co started with a simple goal: to provide Tulsa and the surrounding areas with reliable and professional demolition services. We saw a need for a company that prioritized safety, efficiency, and respect for the environment, and we've been committed to those principles ever since.",
+        "Our approach is straightforward: assess the project, develop a detailed plan, and execute with precision. We understand that every demolition project is unique, whether it's a small residential tear-down or a large commercial dismantling. Our team is equipped with the experience and equipment to handle any challenge.",
+        "We're proud to be a part of the Tulsa community. We believe in giving back and supporting local initiatives. When you choose Demolition Wrecking Co, you're not just hiring a demolition contractor; you're partnering with a company that cares about Tulsa."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "We adhere to the strictest safety standards to protect our team, your property, and the environment."
+        },
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience in all types of demolition projects, from residential to commercial."
+        },
+        {
+          "title": "Efficient & Reliable",
+          "description": "We complete projects on time and within budget, minimizing disruption to your schedule."
+        },
+        {
+          "title": "Environmentally Conscious",
+          "description": "We prioritize responsible waste disposal and recycling to minimize our environmental impact."
+        }
+      ],
+      "ctaHeadline": "Ready to Demolish?",
+      "ctaSubline": "Contact us today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "residential-demolition",
+        "name": "Residential Demolition",
+        "shortDescription": "Safe and efficient demolition services for homes and residential properties in Tulsa.",
+        "description": "Demolition Wrecking Co provides comprehensive residential demolition services in Tulsa and surrounding areas. We handle everything from complete house tear-downs to selective interior demolition, always prioritizing safety and minimizing disruption. We understand the unique challenges of residential demolition in Tulsa's diverse neighborhoods, whether it's working in established areas like Brookside with mature trees or newer suburban developments. We carefully assess each project, taking into account factors like proximity to neighboring homes, underground utilities, and potential environmental concerns like asbestos. Our team utilizes specialized equipment and techniques to ensure a safe and efficient demolition process. We handle all necessary permits and ensure proper disposal of debris, adhering to all local regulations. Whether you're planning a new construction project or simply need to remove an existing structure, Demolition Wrecking Co is the trusted choice for residential demolition in Tulsa.",
+        "process": [
+          "Step 1: Site Assessment & Planning - We evaluate the property and develop a detailed demolition plan.",
+          "Step 2: Permitting & Notifications - We obtain all necessary permits and notify relevant parties.",
+          "Step 3: Utility Disconnection - We ensure all utilities are safely disconnected.",
+          "Step 4: Demolition & Debris Removal - We execute the demolition and remove all debris."
+        ],
+        "benefits": [
+          "Safe and efficient demolition",
+          "Complete site clearing",
+          "Proper waste disposal",
+          "Minimized disruption"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for residential demolition?",
+            "answer": "Yes, in most cases, a permit is required for residential demolition in Tulsa. We handle all permitting requirements for our clients."
+          },
+          {
+            "question": "How long does residential demolition take?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We prioritize responsible waste disposal and recycling. We transport debris to licensed facilities and recycle materials whenever possible."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-demolition",
+        "name": "Commercial Demolition",
+        "shortDescription": "Expert commercial demolition services for businesses and developers in the Tulsa metro.",
+        "description": "Demolition Wrecking Co offers comprehensive commercial demolition services for businesses and developers throughout Tulsa. We have the experience and equipment to handle projects of any size, from interior strip-outs to complete building demolitions. We understand the unique challenges of commercial demolition, including navigating complex regulations, minimizing disruption to surrounding businesses, and ensuring the safety of our crew and the public. Our team develops detailed demolition plans that address these challenges and ensure a smooth and efficient process. We have experience demolishing a variety of commercial structures, including office buildings, retail spaces, warehouses, and industrial facilities. We handle all aspects of the project, including asbestos abatement, utility disconnection, permitting, and debris removal. Whether you're renovating an existing space or clearing land for a new development, Demolition Wrecking Co is the reliable choice for commercial demolition in Tulsa.",
+        "process": [
+          "Step 1: Project Consultation & Assessment - We discuss your project goals and assess the site conditions.",
+          "Step 2: Detailed Planning & Permitting - We develop a comprehensive demolition plan and obtain all necessary permits.",
+          "Step 3: Safety Protocol Implementation - We implement strict safety protocols to protect workers and the public.",
+          "Step 4: Efficient Demolition & Site Clearing - We execute the demolition and remove all debris in a timely manner."
+        ],
+        "benefits": [
+          "Safe and compliant demolition",
+          "Minimized disruption to business operations",
+          "Efficient project completion",
+          "Experienced project management"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle asbestos abatement?",
+            "answer": "Yes, we are licensed and experienced in asbestos abatement. We can safely remove and dispose of asbestos-containing materials prior to demolition."
+          },
+          {
+            "question": "What types of commercial buildings do you demolish?",
+            "answer": "We have experience demolishing a variety of commercial buildings, including office buildings, retail spaces, warehouses, and industrial facilities."
+          },
+          {
+            "question": "How do you minimize disruption to surrounding businesses?",
+            "answer": "We carefully plan our demolition activities to minimize noise, dust, and traffic congestion. We also communicate regularly with neighboring businesses to keep them informed of our progress."
+          }
+        ]
+      },
+      {
+        "slug": "selective-demolition",
+        "name": "Selective Demolition",
+        "shortDescription": "Precise and careful selective demolition services for renovations and remodeling projects.",
+        "description": "Demolition Wrecking Co specializes in selective demolition for renovation and remodeling projects in Tulsa. This type of demolition requires precision and care to remove specific elements of a structure while leaving the surrounding areas intact. We have the expertise and equipment to handle even the most complex selective demolition projects. Whether you're remodeling a kitchen, bathroom, or an entire building, we can help you prepare the space for the next phase of construction. We carefully assess the project to identify load-bearing walls, electrical wiring, and plumbing lines to avoid damaging them during demolition. Our team uses hand tools and specialized equipment to ensure a clean and precise demolition. We also take precautions to minimize dust and debris, protecting the surrounding areas from damage. From gutting interiors in historic Brookside homes to preparing spaces in modern downtown lofts, Demolition Wrecking Co provides the selective demolition expertise you need.",
+        "process": [
+          "Step 1: Detailed Site Inspection - We carefully inspect the site to identify structural elements and utilities.",
+          "Step 2: Protective Measures - We implement protective measures to safeguard surrounding areas.",
+          "Step 3: Precise Demolition - We use hand tools and specialized equipment for precise demolition.",
+          "Step 4: Debris Removal & Cleanup - We remove debris and thoroughly clean the work area."
+        ],
+        "benefits": [
+          "Precise and controlled demolition",
+          "Minimized dust and debris",
+          "Protection of surrounding areas",
+          "Experienced and skilled team"
+        ],
+        "faq": [
+          {
+            "question": "What is selective demolition?",
+            "answer": "Selective demolition involves removing specific elements of a structure while leaving the surrounding areas intact. This is commonly used for renovation and remodeling projects."
+          },
+          {
+            "question": "How do you protect the surrounding areas during selective demolition?",
+            "answer": "We use protective sheeting, dust barriers, and careful demolition techniques to minimize dust and debris and protect the surrounding areas from damage."
+          },
+          {
+            "question": "Can you remove load-bearing walls during selective demolition?",
+            "answer": "Removing load-bearing walls requires careful planning and structural support. We can assess the situation and determine the best course of action in consultation with a structural engineer."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-removal",
+        "name": "Concrete Removal",
+        "shortDescription": "Reliable concrete removal services for driveways, patios, foundations, and more.",
+        "description": "Demolition Wrecking Co provides reliable concrete removal services throughout Tulsa. We have the equipment and expertise to handle any concrete removal project, from removing old driveways and patios to demolishing concrete foundations and slabs. Tulsa's freeze-thaw cycles can wreak havoc on concrete, leading to cracking and deterioration. Whether you're replacing damaged concrete or clearing land for a new construction project, we can help. We use specialized equipment, such as jackhammers and concrete saws, to break up and remove concrete efficiently and safely. We take precautions to minimize dust and noise, and we ensure proper disposal of all debris. We handle concrete removal projects of all sizes, from small residential jobs to large commercial projects. If you need concrete removed in Tulsa, Demolition Wrecking Co is the trusted choice.",
+        "process": [
+          "Step 1: Site Preparation - We prepare the site by removing any obstacles and marking the area to be removed.",
+          "Step 2: Concrete Cutting & Breaking - We use specialized equipment to cut and break up the concrete.",
+          "Step 3: Debris Removal - We remove the concrete debris and load it onto trucks for disposal.",
+          "Step 4: Site Cleanup - We clean the site and ensure it is ready for the next phase of construction."
+        ],
+        "benefits": [
+          "Efficient and safe concrete removal",
+          "Proper disposal of debris",
+          "Minimized dust and noise",
+          "Experienced and reliable team"
+        ],
+        "faq": [
+          {
+            "question": "What types of concrete removal projects do you handle?",
+            "answer": "We handle a wide range of concrete removal projects, including driveways, patios, sidewalks, foundations, and slabs."
+          },
+          {
+            "question": "How do you minimize dust during concrete removal?",
+            "answer": "We use water spray and dust suppression techniques to minimize dust during concrete removal."
+          },
+          {
+            "question": "How do you dispose of concrete debris?",
+            "answer": "We transport concrete debris to licensed recycling facilities whenever possible. We prioritize responsible waste disposal."
+          }
+        ]
+      },
+      {
+        "slug": "site-clearing",
+        "name": "Site Clearing",
+        "shortDescription": "Comprehensive site clearing services for residential and commercial development.",
+        "description": "Demolition Wrecking Co offers comprehensive site clearing services for residential and commercial development projects in Tulsa. We prepare land for construction by removing trees, shrubs, debris, and other obstacles. Our team has the equipment and expertise to handle even the most challenging site clearing projects. We understand the importance of preparing the land properly to ensure a solid foundation for your project. We carefully assess the site to identify potential environmental concerns, such as wetlands or protected species. We comply with all local regulations and take precautions to minimize our environmental impact. Whether you're building a new home or developing a large commercial complex, Demolition Wrecking Co can provide the site clearing services you need. We’re accustomed to the varied terrain around Tulsa County, from flat plains to rolling hills.",
+        "process": [
+          "Step 1: Site Assessment & Planning - We evaluate the site and develop a detailed clearing plan.",
+          "Step 2: Vegetation Removal - We remove trees, shrubs, and other vegetation.",
+          "Step 3: Debris Removal - We remove any debris or obstacles from the site.",
+          "Step 4: Grading & Leveling - We grade and level the land to prepare it for construction."
+        ],
+        "benefits": [
+          "Efficient and thorough site clearing",
+          "Compliance with local regulations",
+          "Minimized environmental impact",
+          "Experienced and reliable team"
+        ],
+        "faq": [
+          {
+            "question": "What is site clearing?",
+            "answer": "Site clearing involves preparing land for construction by removing trees, shrubs, debris, and other obstacles."
+          },
+          {
+            "question": "How do you handle environmental concerns during site clearing?",
+            "answer": "We carefully assess the site to identify potential environmental concerns and comply with all local regulations. We take precautions to minimize our environmental impact."
+          },
+          {
+            "question": "Do you offer grading and leveling services?",
+            "answer": "Yes, we offer grading and leveling services to prepare the land for construction."
+          }
+        ]
+      },
+      {
+        "slug": "interior-strip-outs",
+        "name": "Interior Strip-Outs",
+        "shortDescription": "Efficient and safe interior strip-out services for commercial and residential properties.",
+        "description": "Demolition Wrecking Co specializes in interior strip-out services for commercial and residential properties in Tulsa. Whether you're renovating an office space, remodeling a retail store, or preparing a home for a new tenant, we can help you remove unwanted interior elements quickly and efficiently. Our team has the experience and equipment to handle any interior strip-out project, from removing drywall and flooring to dismantling fixtures and equipment. We take precautions to minimize dust and debris, protecting the surrounding areas from damage. We also ensure proper disposal of all materials, adhering to all local regulations. We understand that interior strip-outs can be disruptive, so we work quickly and efficiently to minimize downtime. From the Blue Dome District to Cherry Street, Demolition Wrecking Co is the trusted choice for interior strip-outs in Tulsa.",
+        "process": [
+          "Step 1: Site Assessment & Planning - We assess the site and develop a detailed strip-out plan.",
+          "Step 2: Protective Measures - We implement protective measures to safeguard surrounding areas.",
+          "Step 3: Removal of Interior Elements - We remove drywall, flooring, fixtures, and other interior elements.",
+          "Step 4: Debris Removal & Cleanup - We remove debris and thoroughly clean the work area."
+        ],
+        "benefits": [
+          "Efficient and safe strip-out services",
+          "Minimized dust and debris",
+          "Protection of surrounding areas",
+          "Experienced and skilled team"
+        ],
+        "faq": [
+          {
+            "question": "What is an interior strip-out?",
+            "answer": "An interior strip-out involves removing unwanted interior elements from a building, such as drywall, flooring, fixtures, and equipment."
+          },
+          {
+            "question": "How do you minimize dust during interior strip-outs?",
+            "answer": "We use dust barriers, HEPA filters, and water spray to minimize dust during interior strip-outs."
+          },
+          {
+            "question": "How do you dispose of materials from interior strip-outs?",
+            "answer": "We prioritize responsible waste disposal and recycling. We transport debris to licensed facilities and recycle materials whenever possible."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co is proud to offer comprehensive demolition services to the residents and businesses of Tulsa, Oklahoma. From selective interior demolitions to complete building removals, we have the expertise and equipment to handle any project, large or small. We prioritize safety and efficiency, ensuring minimal disruption to your property and the surrounding community.\n\nOur team is committed to providing exceptional customer service and environmentally responsible demolition practices. We handle all permitting and regulatory requirements, so you can rest assured that your project will be completed safely, on time, and within budget. Choose Demolition Wrecking Co for your next demolition project in Tulsa.\n\nWe also offer services such as asbestos abatement and site clearing to prepare for new construction.",
+        "localContext": "Tulsa is a vibrant city known for its art deco architecture and thriving cultural scene, situated on the Arkansas River.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co extends its professional demolition services to Broken Arrow, Oklahoma. We understand the unique needs of Broken Arrow residents and businesses, and we are dedicated to providing safe and reliable demolition solutions. Whether you require the removal of an old shed or a complete commercial building demolition, our team is equipped to handle the job.\n\nWe are committed to minimizing environmental impact through responsible demolition practices, including recycling and proper disposal of debris. Our experienced team ensures that every project is completed with the highest standards of safety and efficiency. Contact Demolition Wrecking Co for all your demolition needs in Broken Arrow.\n\nOur services also include concrete removal and land clearing to prepare your site for new construction or landscaping.",
+        "localContext": "Broken Arrow is a rapidly growing suburb of Tulsa, known for its excellent schools and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co is pleased to serve the community of Owasso, Oklahoma, with our expert demolition services. We offer a full range of demolition solutions, from residential projects to commercial developments. Our experienced team is dedicated to providing safe, efficient, and environmentally responsible demolition services.\n\nWe understand the importance of minimizing disruption to your property and the surrounding neighborhood. That's why we prioritize careful planning and execution to ensure every project is completed smoothly and efficiently. Choose Demolition Wrecking Co for your next demolition project in Owasso.\n\nWe also offer selective demolition services for renovations and remodeling projects.",
+        "localContext": "Owasso is a growing city north of Tulsa, known for its strong community spirit and excellent quality of life.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co proudly provides demolition services to Sand Springs, Oklahoma. We understand the specific needs of this community and are committed to providing safe, reliable, and efficient demolition solutions. Whether you need a residential demolition or a commercial building removal, our team has the expertise to handle the job.\n\nWe are dedicated to environmentally responsible demolition practices, including recycling and proper disposal of debris. Our experienced team ensures that every project is completed with the highest standards of safety and efficiency. Contact Demolition Wrecking Co for all your demolition needs in Sand Springs.\n\nWe offer services such as concrete removal and site preparation for future construction.",
+        "localContext": "Sand Springs is a city located on the western edge of Tulsa County, known for its scenic beauty and historical significance.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co is happy to serve the residents and businesses of Sapulpa, Oklahoma. We offer a complete range of demolition services, from selective interior work to complete structure removal. Our team is dedicated to providing safe, efficient, and environmentally conscious demolition solutions.\n\nWe understand the importance of minimizing disruption to your property and the surrounding community. That's why we prioritize careful planning and execution to ensure that every project is completed smoothly and efficiently. Choose Demolition Wrecking Co for your demolition needs in Sapulpa.\n\nWe also provide asbestos abatement services to ensure the safety of your property and the environment.",
+        "localContext": "Sapulpa is a city located southwest of Tulsa, known for its historic downtown and Route 66 heritage.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Bristow"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co provides high-quality demolition services to Bixby, Oklahoma. We understand the unique challenges and needs of Bixby residents and businesses, providing safe, reliable, and efficient demolition services. From small residential projects to large commercial endeavors, we are equipped to handle any job.\n\nWe are committed to minimizing environmental impact through responsible demolition practices, including recycling and proper disposal of debris. Our experienced team ensures that every project is completed with the highest standards of safety and efficiency. Contact Demolition Wrecking Co for all your demolition needs in Bixby.\n\nOur services include concrete removal, land clearing, and site preparation for new construction.",
+        "localContext": "Bixby is a rapidly growing suburb south of Tulsa, known for its excellent schools and family-friendly environment.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Broken Arrow",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co is pleased to offer expert demolition services to Jenks, Oklahoma. We offer a full range of demolition solutions, from residential projects to commercial developments. Our experienced team is dedicated to providing safe, efficient, and environmentally responsible demolition services.\n\nWe understand the importance of minimizing disruption to your property and the surrounding neighborhood. That's why we prioritize careful planning and execution to ensure every project is completed smoothly and efficiently. Choose Demolition Wrecking Co for your next demolition project in Jenks.\n\nWe offer selective demolition services for renovations and remodeling projects.",
+        "localContext": "Jenks is a suburb of Tulsa located on the Arkansas River, known for its aquarium and vibrant downtown area.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Bixby",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Demolition Wrecking Co is proud to extend its professional demolition services to Glenpool, Oklahoma. We understand the unique needs of Glenpool residents and businesses, and we are dedicated to providing safe and reliable demolition solutions. Whether you require the removal of an old shed or a complete commercial building demolition, our team is equipped to handle the job.\n\nWe are committed to minimizing environmental impact through responsible demolition practices, including recycling and proper disposal of debris. Our experienced team ensures that every project is completed with the highest standards of safety and efficiency. Contact Demolition Wrecking Co for all your demolition needs in Glenpool.\n\nOur services also include concrete removal and land clearing to prepare your site for new construction or landscaping.",
+        "localContext": "Glenpool is a suburb of Tulsa, known for its historical ties to the oil industry and its family-friendly community.",
+        "nearbyAreas": [
+          "Jenks",
+          "Sapulpa",
+          "Kiefer"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Residential Demolition",
+        "text": "Demolition Wrecking Co did an amazing job demolishing our old garage in midtown Tulsa. The team was professional, efficient, and left the site clean. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Concrete Removal",
+        "text": "We hired Demolition Wrecking Co to remove an old concrete patio. They were quick and the price was fair. There was a little more dust than I expected, but overall, a good experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Selective Demolition",
+        "text": "Used them for a selective demo in our kitchen remodel. They were careful and precise, and they cleaned up everything perfectly. Excellent work!",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Commercial Demolition",
+        "text": "Demolition Wrecking Co handled the demolition of our old warehouse. The project was completed on time and within budget. Great communication throughout the entire process.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Site Clearing",
+        "text": "We hired Demolition Wrecking Co to clear a lot for our new home construction. They did a good job removing the trees and debris, but the grading could have been a little better.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Interior Strip-Outs",
+        "text": "These guys were fantastic! Fast, clean, and professional. They stripped out an entire office building for us in record time. Will definitely use them again!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tulsa Demolition Contractor | Demolition Wrecking Co",
+        "description": "Demolition Wrecking Co provides top-rated demolition services in Tulsa, OK. Residential, commercial, and selective demolition experts."
+      },
+      "about": {
+        "title": "About Demolition Wrecking Co | Tulsa Demolition",
+        "description": "Learn about Demolition Wrecking Co, Tulsa's leading demolition contractor. Experienced, safe, and reliable demolition services."
+      },
+      "services": {
+        "title": "Demolition Services | Tulsa OK | Demolition Wrecking Co",
+        "description": "Comprehensive demolition services in Tulsa, OK. Residential demolition, commercial demolition, concrete removal, and more."
+      },
+      "contact": {
+        "title": "Contact Demolition Wrecking Co | Tulsa OK",
+        "description": "Contact Demolition Wrecking Co for a free demolition estimate in Tulsa, OK. Call us today!"
+      },
+      "reviews": {
+        "title": "Demolition Wrecking Co | Tulsa OK | Reviews",
+        "description": "Read reviews for Demolition Wrecking Co in Tulsa, OK. See what our satisfied customers are saying about our demolition services."
+      },
+      "service-areas": {
+        "title": "Demolition Service Areas | Tulsa OK & Surrounding",
+        "description": "Demolition service areas for Demolition Wrecking Co in Tulsa, OK and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-demolition": "/images/service-residential-demolition.webp",
+      "commercial-demolition": "/images/service-commercial-demolition.webp",
+      "selective-demolition": "/images/service-selective-demolition.webp",
+      "concrete-removal": "/images/service-concrete-removal.webp",
+      "site-clearing": "/images/service-site-clearing.webp",
+      "interior-strip-outs": "/images/service-interior-strip-outs.webp"
+    },
+    "servicesResponsive": {
+      "residential-demolition": {
+        "src": "/images/service-residential-demolition.webp",
+        "srcset": "/images/service-residential-demolition-400w.webp 400w, /images/service-residential-demolition-800w.webp 800w, /images/service-residential-demolition-1200w.webp 1200w, /images/service-residential-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-demolition": {
+        "src": "/images/service-commercial-demolition.webp",
+        "srcset": "/images/service-commercial-demolition-400w.webp 400w, /images/service-commercial-demolition-800w.webp 800w, /images/service-commercial-demolition-1200w.webp 1200w, /images/service-commercial-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "selective-demolition": {
+        "src": "/images/service-selective-demolition.webp",
+        "srcset": "/images/service-selective-demolition-400w.webp 400w, /images/service-selective-demolition-800w.webp 800w, /images/service-selective-demolition-1200w.webp 1200w, /images/service-selective-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-removal": {
+        "src": "/images/service-concrete-removal.webp",
+        "srcset": "/images/service-concrete-removal-400w.webp 400w, /images/service-concrete-removal-800w.webp 800w, /images/service-concrete-removal-1200w.webp 1200w, /images/service-concrete-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "site-clearing": {
+        "src": "/images/service-site-clearing.webp",
+        "srcset": "/images/service-site-clearing-400w.webp 400w, /images/service-site-clearing-800w.webp 800w, /images/service-site-clearing-1200w.webp 1200w, /images/service-site-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "interior-strip-outs": {
+        "src": "/images/service-interior-strip-outs.webp",
+        "srcset": "/images/service-interior-strip-outs-400w.webp 400w, /images/service-interior-strip-outs-800w.webp 800w, /images/service-interior-strip-outs-1200w.webp 1200w, /images/service-interior-strip-outs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
